@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "445322478011",
+    "project_id": "to-do-app-ryan-kraus-pgdu4v",
+    "storage_bucket": "to-do-app-ryan-kraus-pgdu4v.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445322478011:android:d2864d4ce9aaffd8ffc49e",
+        "android_client_info": {
+          "package_name": "com.mycompany.todo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4pfIbB5GzLnrwtSHysJyYaux1mtqF80E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
